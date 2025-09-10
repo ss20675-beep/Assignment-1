@@ -1,0 +1,19 @@
+body {
+ background-color: lightblue;
+}
+ 
+/* Heading */
+h1 {
+ color: Green;
+ font-family: verdana;
+}
+
+h2 {
+    color: red;
+    font-family: geneva;
+}
+
+p{
+    color: pink;
+    font-family: verdana
+}
